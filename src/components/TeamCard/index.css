@@ -5,14 +5,17 @@
   font-family: 'Bree Serif';
 }
 
-.link-item-team-card {
-  text-decoration: none;
+.team-card-li {
   padding: 20px;
   border: 1px white solid;
   border-radius: 10px;
   width: 38%;
   margin-right: 25px;
   margin-bottom: 25px;
+}
+
+.link-item-team-card {
+  text-decoration: none;
 }
 
 .team-card-container {

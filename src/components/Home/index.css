@@ -12,6 +12,10 @@
   background-size: cover;
 }
 
+.teamslist-container {
+  list-style: none;
+}
+
 .home-container {
   padding: 100px;
   display: flex;
