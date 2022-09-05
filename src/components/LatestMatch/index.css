@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Bree Serif';
+}
+
+.latestmatch-container {
+  background-color: #1e293b;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+.latest-match-main-info-container {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+}
+.latest-match-competing-team-name {
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+.latest-match-competing-date {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.latest-match-venue {
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.latest-match-result {
+  font-size: 15px;
+}
+.latest-match-competing-team-logo {
+  width: 250px;
+  width: 380px;
+  height: 300px;
+}
+.latest-match-additional-info {
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.first-innings-heading {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.first-innings-data {
+  font-size: 15px;
+  margin-bottom: 20px;
+}

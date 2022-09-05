@@ -1,0 +1,33 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.match-details-container {
+  background-image: linear-gradient(#a4261d, #0f172a);
+  height: 100%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content-container {
+  width: 1200px;
+}
+.team-banner {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.latest-matches-heading {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.recent-matches-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

@@ -1,0 +1,42 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+  color: white;
+}
+
+.recent-match-container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-bottom: 30px;
+  border-radius: 10px;
+  width: 370px;
+  padding: 30px;
+}
+.recent-compete-logo-container {
+}
+.recent-compete-logo {
+  width: 200px;
+  height: 300px;
+}
+.recent-competing-team {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.recent-result {
+  font-size: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.verdict {
+  font-size: 25px;
+}
+.green {
+  color: #18ed66;
+}
+.red {
+  color: #e31a1a;
+}

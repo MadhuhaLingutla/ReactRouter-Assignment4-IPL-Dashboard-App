@@ -1,0 +1,32 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Bree Serif';
+}
+
+.link-item-team-card {
+  text-decoration: none;
+  padding: 20px;
+  border: 1px white solid;
+  border-radius: 10px;
+  width: 38%;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+
+.team-card-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.team-logo {
+  width: 150px;
+  height: 200px;
+  flex-shrink: 0;
+}
+.team-name {
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}

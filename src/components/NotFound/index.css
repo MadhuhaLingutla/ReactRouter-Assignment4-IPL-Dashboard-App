@@ -1,0 +1,13 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Bree Serif';
+}
+
+.not-found {
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
